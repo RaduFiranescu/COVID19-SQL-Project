@@ -1,3 +1,5 @@
+# The data has been made available by Motivate International Inc. under this license (https://www.divvybikes.com/data-license-agreement)
+
 #start_station_id and end_Station_id had 2 different types: chr & dbl which made merging the databases impossible
 #  Found error only related to 092020 and 102020
 #  Mutated start_station_id to chr for these
